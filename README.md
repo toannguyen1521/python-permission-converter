@@ -15,6 +15,8 @@ This project is very simple and does not require installing any external librari
 4. Press the **F5** key on your keyboard to run the program or Run --> Start Debugging to run the program.
 
 5. click Ctrl + C in keyboard to exit if done
+![Demo Chương Trình](image/permission-picture.png)
+
 
 ## Features
 
